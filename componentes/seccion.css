@@ -1,0 +1,51 @@
+.seccion{
+    flex-direction: column;
+    display: flex;
+    padding-left: 20px;
+    width: 100%;
+    
+}
+
+.img{
+    height: 300px;
+    width: 100%;
+}
+
+.subtitulo{
+    padding-top: 20px;
+}
+
+
+.info1{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    padding: 10px 10px;
+    gap: 10px;
+    flex-direction: column;
+    
+}
+
+.info2{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    padding: 10px 10px;
+    gap: 10px;
+    flex-direction: column;
+    
+}
+
+.info3{
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    padding: 10px 10px;
+    gap: 10px;
+    flex-direction: column;
+    margin-bottom: 50px;
+    
+}

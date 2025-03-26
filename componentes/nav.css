@@ -1,0 +1,13 @@
+.nav{
+    width: 250px;
+    background-color: blue;
+    height: 670px;
+  gap: 20px;
+    display: flex;
+    padding-left: 10px;
+    color: white;
+    flex-direction: column;
+    padding-top: 20px;
+
+    
+}
